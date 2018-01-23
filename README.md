@@ -10,6 +10,13 @@ An interactive of all points scored in league history, with each node represntin
 
 ![alt text](./node-link.png)
 
+Clicking on a node will grey out all unaffliated nodes, and show a circle showing link strength for all affiliated nodes
+
+![alt text](./clicked.png)
+
+It will also create a table and graph underneath the main visualization
+
+![alt text](./table.png)
 
 ### Points Line Graph
 
